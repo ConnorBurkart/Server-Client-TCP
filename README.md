@@ -7,9 +7,18 @@ Assigment 1
 # HOW TO RUN
 
 1. Make
-2. Client:./ring <IP> <Port> <FileName>
-3. Server: /ring <IP> <Port>
+2. Client:
+```
+./ring <IP> <Port> <FileName>
+```
+3. Server:
+```
+ /ring <IP> <Port>
+```
+4. Make clean
 
+
+For the Client you need a file. It does not matter what it is as long as it holds data. You will need to create it dyanmically.
 # Basic Ideas 
 
 How I did the file handling is import everything into a string. Sent that gaint file to server.
