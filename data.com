@@ -1,3 +1,0 @@
-Connor
-    Russell
-Burkart
