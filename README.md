@@ -4,13 +4,13 @@ Assigment 1
 2/27/24
 
 
-## HOW TO RUN
+# HOW TO RUN
 
 1. Make
 2. Client:./ring <IP> <Port> <FileName>
 3. Server: /ring <IP> <Port>
 
-## Basic Ideas 
+# Basic Ideas 
 
 How I did the file handling is import everything into a string. Sent that gaint file to server.
 The server takes the first line and stores it in the message. Then the rest of the message gets
